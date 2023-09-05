@@ -3,4 +3,12 @@
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
-> deneme
+6
+/   \
+2     7
+/   /   \
+1   5     8
+/   /       \
+0   4        9
+    /
+    3
